@@ -5,7 +5,7 @@ about: Suggest an idea for this project
 ---
 
 <!--
-PLEASE NOTE: This repository is NOT for reporting bugs on the current Dev Console. If you have a bug please open a support ticket or post on the forums if you have a bug with the current Dev Console.
+PLEASE NOTE: This repository is NOT for reporting bugs on the current Dev Console. If you have a bug with the current Dev Console please open a support ticket or post on the forums.
 
 PLEASE USE THIS REPO ONLY FOR FEATURE REQUESTS AND IDEAS FOR THE FUTURE VERSION OF DEV CONSOLE.
 
